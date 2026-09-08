@@ -1,6 +1,6 @@
 # Latent space network models on the anisotropic Thurston geometries
 
-Code, data and manuscript source for a study of latent space network models on the three
+Code and data for a paper of latent space network models on the three
 three-dimensional model geometries that are neither of constant curvature nor products:
 the Heisenberg group (Nil), the solvable group (Sol) and the universal cover of the unit
 tangent bundle of the hyperbolic plane (SL~(2,R)). The paper treats identification of
@@ -12,7 +12,6 @@ preferences circulate around triangles in proportion to enclosed area.
 
     code/        geometry, inference, competitors and experiment drivers
     analysis/    scripts for the real-network studies (connectomes, sports, trade, games, benchmarks)
-    paper/       LaTeX source of the manuscript (main.tex is the root file; supplement included)
     results/     JSON result files from which every table and number in the paper is generated
     figures/     figures used in the paper
     data/        network data with the source and licence of each collection (see data/README.md)

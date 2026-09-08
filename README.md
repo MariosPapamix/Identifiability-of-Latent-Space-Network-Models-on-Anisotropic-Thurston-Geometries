@@ -51,8 +51,6 @@ screen it, and fit the models. For example
 Tables: `code/make_numbers5.py` and the table-writing blocks in the analysis scripts regenerate
 the LaTeX tables and macros in `paper/` from `results/`.
 
-Manuscript: `cd paper && pdflatex main && bibtex main && pdflatex main && pdflatex main`.
-
 ## Licence
 
 Code: MIT (see LICENSE). Data: each collection keeps the licence of its source; see
